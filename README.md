@@ -1,11 +1,6 @@
-# CSCI-665
-Foundation of Algorithms
-
 Gale–Shapley Stable Matching Algorithm implemented in Java
 
 Stable.java
-
-
 
 Detecting Bipartite and Cycles while performing BFS in unweighted graphs
 
